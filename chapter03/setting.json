@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/hyakuzukamaya/Desktop/MCP_Learning"
+      ]
+    }
+  },
+  "calculator": {
+      "command": "uv",
+      "args": [
+          "--directory",
+          "/Users/hyakuzukamaya/Desktop/MCP_Learning/chapter03",
+          "run",
+          "calculator_server.py"
+      ]
+  }
+}
+

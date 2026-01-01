@@ -1,0 +1,3 @@
+[submodule "chapter03/inspector/inspector"]
+	path = chapter03/inspector/inspector
+	url = git@github.com:si-tm/inspector.git
